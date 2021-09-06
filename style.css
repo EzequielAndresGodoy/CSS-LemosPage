@@ -2,11 +2,6 @@ body {
   background: linear-gradient(0deg, rgba(214,212,0,1) 0%, rgba(174,185,0,1) 35%, rgba(113,117,0,1) 100%);
   font-family:'poppins', helvetica;
 }
-@media max-width(720px) {
-  body{
-    background: pink;
-  }
-}
 #header {
   width: 100%;
   display: flex;
